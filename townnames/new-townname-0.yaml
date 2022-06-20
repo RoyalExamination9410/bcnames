@@ -68,7 +68,9 @@ subsets:
       probability: 1
   - names: []
   - names: []
-  - names: []
+  - names:
+    - name: New
+      probability: 1
   - names:
     - name: ''
       probability: 1
