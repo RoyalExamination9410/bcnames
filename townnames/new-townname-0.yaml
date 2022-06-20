@@ -4,10 +4,6 @@ mainset:
 - names:
   - name: Abbotsford
     probability: 1
-  - name: Abbotsford East
-    probability: 1
-  - name: Abbotsford West
-    probability: 1
   - name: 'Aberdeen '
     probability: 1
   - name: 'Abhau '
@@ -41,6 +37,26 @@ mainset:
   - name: Albert Head
     probability: 1
   - name: Alberts
+    probability: 1
+  - name: Albion
+    probability: 1
+  - name: Albreda
+    probability: 1
+  - name: Aldergrove
+    probability: 1
+  - name: Alert Bay
+    probability: 1
+  - name: 'Alexander '
+    probability: 1
+  - name: 'Alexandra '
+    probability: 1
+  - name: 'Alexandria '
+    probability: 1
+  - name: Alexis Creek
+    probability: 1
+  - name: Aleza Lake
+    probability: 1
+  - name: Alice Arm
     probability: 1
 name: 'New Townname #0'
 source: null
