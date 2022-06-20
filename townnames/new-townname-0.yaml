@@ -1,0 +1,47 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Abbotsford
+    probability: 1
+  - name: Abbotsford East
+    probability: 1
+  - name: Abbotsford West
+    probability: 1
+  - name: 'Aberdeen '
+    probability: 1
+  - name: 'Abhau '
+    probability: 1
+  - name: Active Pass Lighthouse
+    probability: 1
+  - name: Adams Lake
+    probability: 1
+  - name: 'Agassiz '
+    probability: 1
+  - name: 'Agate '
+    probability: 1
+  - name: 'Ahbau '
+    probability: 1
+  - name: 'Ahousat '
+    probability: 1
+  - name: 'Ainsworth '
+    probability: 1
+  - name: Ainsworth Hot Springs
+    probability: 1
+  - name: Aiyansh
+    probability: 1
+  - name: Alamo
+    probability: 1
+  - name: Albas
+    probability: 1
+  - name: Alberni
+    probability: 1
+  - name: Albert
+    probability: 1
+  - name: Albert Head
+    probability: 1
+  - name: Alberts
+    probability: 1
+name: 'New Townname #0'
+source: ''
+subsets: []
