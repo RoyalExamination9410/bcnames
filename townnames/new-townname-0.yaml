@@ -1,4 +1,4 @@
-available: false
+available: true
 id: 0
 mainset:
 - names:
@@ -43,5 +43,5 @@ mainset:
   - name: Alberts
     probability: 1
 name: 'New Townname #0'
-source: ''
+source: null
 subsets: []
