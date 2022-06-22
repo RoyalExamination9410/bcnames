@@ -103,7 +103,7 @@ mainset:
   - name: North
     probability: 1
   - name: South
-    probability: 10
+    probability: 1
   - name: East
     probability: 1
   - name: West
@@ -193,8 +193,20 @@ mainset:
   - name: Heights
     probability: 1
   - name: ''
-    probability: 50
+    probability: 20
   - name: Field
+    probability: 1
+  - name: Mine
+    probability: 1
+  - name: River
+    probability: 1
+  - name: Mills
+    probability: 1
+  - name: Ridge
+    probability: 1
+  - name: Ranch
+    probability: 1
+  - name: Cannery
     probability: 1
 name: bcnamesbuildertest
 source: null
