@@ -2,69 +2,62 @@ available: true
 id: 0
 mainset:
 - names:
-  - name: Abbotsford
+  - name: 'North '
     probability: 1
-  - name: 'Aberdeen '
+  - name: 'South '
     probability: 1
-  - name: 'Abhau '
+  - name: 'East '
     probability: 1
-  - name: Active Pass Lighthouse
+  - name: 'West '
     probability: 1
-  - name: Adams Lake
+  - name: 'Greater '
     probability: 1
-  - name: 'Agassiz '
+  - name: 'Lesser '
     probability: 1
-  - name: 'Agate '
+  - name: 'Upper '
     probability: 1
-  - name: 'Ahbau '
+  - name: 'Middle '
     probability: 1
-  - name: 'Ahousat '
+  - name: 'Lower '
     probability: 1
-  - name: 'Ainsworth '
+  - name: 'Outer '
     probability: 1
-  - name: Ainsworth Hot Springs
+  - name: 'Inner '
     probability: 1
-  - name: Aiyansh
+  - name: 'Big '
     probability: 1
-  - name: Alamo
+  - name: 'Little '
     probability: 1
-  - name: Albas
+  - name: 'Central '
     probability: 1
-  - name: Alberni
+  - name: 'Fort '
     probability: 1
-  - name: Albert
+  - name: 'Lake '
     probability: 1
-  - name: Albert Head
+  - name: 'Mount '
     probability: 1
-  - name: Alberts
+  - name: 'Lake '
     probability: 1
-  - name: Albion
+  - name: 'Mount '
     probability: 1
-  - name: Albreda
+  - name: 'Place '
     probability: 1
-  - name: Aldergrove
+  - name: 'Point '
     probability: 1
-  - name: Alert Bay
+  - name: ''
+    probability: 10
+- names:
+  - name: 'Abbotsford '
     probability: 1
-  - name: 'Alexander '
+  - name: 'Burnaby '
     probability: 1
-  - name: 'Alexandra '
-    probability: 1
-  - name: 'Alexandria '
-    probability: 1
-  - name: Alexis Creek
-    probability: 1
-  - name: Aleza Lake
-    probability: 1
-  - name: Alice Arm
+  - name: 'Chilliwack '
     probability: 1
 - names:
-  - name: ' '
+  - name: Mountain
     probability: 1
-  - name: ' North'
-    probability: 1
-  - name: ' South'
-    probability: 1
-name: 'New Townname #0'
+  - name: Ford
+    probability: 10
+name: bcnames
 source: null
 subsets: []
