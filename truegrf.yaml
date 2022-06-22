@@ -1,7 +1,7 @@
 description: A new TrueGRF project
 grfid: f265726b
 license: CC-BY-NC-ND-4.0
-name: bcnames
+name: bcnamesbuildertest
 type: townname
 url: https://github.com/RoyalExamination9410/bcnames
 version: 6
