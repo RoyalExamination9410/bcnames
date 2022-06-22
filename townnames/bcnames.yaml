@@ -59,6 +59,46 @@ mainset:
     probability: 1
   - name: 'Falkland '
     probability: 1
+  - name: 'Golden '
+    probability: 1
+  - name: 'Hope '
+    probability: 1
+  - name: 'Invermere '
+    probability: 1
+  - name: 'Jaffray '
+    probability: 1
+  - name: 'Kamloops '
+    probability: 1
+  - name: 'Lumby '
+    probability: 1
+  - name: 'Mill Bay '
+    probability: 1
+  - name: 'Nanaimo '
+    probability: 1
+  - name: 'Osoyoos '
+    probability: 1
+  - name: 'Peachland '
+    probability: 1
+  - name: 'Quesnel '
+    probability: 1
+  - name: 'Rutland '
+    probability: 1
+  - name: 'Salmon Arm '
+    probability: 1
+  - name: 'Tsawwassen '
+    probability: 1
+  - name: 'Ucluelet '
+    probability: 1
+  - name: 'Victoria '
+    probability: 1
+  - name: 'White Rock '
+    probability: 1
+  - name: 'Xwayxway '
+    probability: 1
+  - name: 'Yahk '
+    probability: 1
+  - name: 'Zeballos '
+    probability: 1
 - names:
   - name: North
     probability: 1
@@ -153,7 +193,7 @@ mainset:
   - name: Heights
     probability: 1
   - name: ''
-    probability: 2000
+    probability: 50
   - name: Field
     probability: 1
 name: bcnames
