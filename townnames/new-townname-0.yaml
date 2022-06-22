@@ -58,6 +58,13 @@ mainset:
     probability: 1
   - name: Alice Arm
     probability: 1
+- names:
+  - name: ' '
+    probability: 1
+  - name: ' North'
+    probability: 1
+  - name: ' South'
+    probability: 1
 name: 'New Townname #0'
 source: null
 subsets: []
