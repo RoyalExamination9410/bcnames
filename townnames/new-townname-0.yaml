@@ -60,17 +60,4 @@ mainset:
     probability: 1
 name: 'New Townname #0'
 source: null
-subsets:
-- name: newset-0
-  parts:
-  - names:
-    - name: '@main'
-      probability: 1
-  - names: []
-  - names: []
-  - names:
-    - name: New
-      probability: 1
-  - names:
-    - name: ''
-      probability: 1
+subsets: []
